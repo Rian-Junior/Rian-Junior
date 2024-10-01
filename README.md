@@ -1,8 +1,8 @@
-<h2 align="left">About me</h2>
+<h2 align="left">About me 👋</h2>
 
 ###
 
-<p align="left">Estudent programmig<br>Learning Hacking && Cybersecurity<br>I use my studies in cybersecurity and hacking to develop knowledge in programming :)</p>
+<p align="left">Estudent programmig 👨‍💻<br>Learning Hacking && Cybersecurity 🛡️<br>I use my studies in cybersecurity and hacking to develop knowledge in programming :)</p>
 
 ###
 
