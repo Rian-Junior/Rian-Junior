@@ -3,7 +3,6 @@
 ###
 
 <p align="left">
-Here’s an enhanced version of your profile description:
 
 👨‍💻 Aspiring Software Developer
 🛡️ Learning Cybersecurity & Ethical Hacking
