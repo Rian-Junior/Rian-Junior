@@ -4,8 +4,7 @@
 
 <p align="left">
 
-👨‍💻 Aspiring Software Developer
-🛡️ Learning Cybersecurity & Ethical Hacking
+👨‍💻 Aspiring Software Developer <br> Learning Cybersecurity & Ethical Hacking
 
 Passionate about combining my programming skills with cybersecurity knowledge. I explore ethical hacking to deepen my understanding of secure coding practices and real-world problem-solving in software development.</p>
 
