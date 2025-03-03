@@ -4,9 +4,13 @@
 
 <p align="left">
 
-👨‍💻 Aspiring Software Developer <br> Learning Cybersecurity & Ethical Hacking
+I'm a passionate enthusiast for security and software, with a focus on offensive security. 
 
-Passionate about combining my programming skills with cybersecurity knowledge. I explore ethical hacking to deepen my understanding of secure coding practices and real-world problem-solving in software development.</p>
+Currently, I'm pursuing web development, a journey that began at 15 with learning JavaScript, PHP, and MySQL. More recently, I've been delving into C and Python.
+
+Additionally, I'm studying the MITRE ATT&CK framework and APT groups to improve my understanding of advanced threats. 
+
+As a Red Team member, my goal is to continue developing expertise in simulating real-world attacks, learning new tactics, techniques, and procedures (TTPs) to help organizations improve their defenses.
 
 ###
 
