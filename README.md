@@ -17,11 +17,6 @@
 
 <p align="left">I'm a passionate security enthusiast and aspiring software developer, with a strong focus on offensive security.<br><br>My journey into web development began at 15, learning JavaScript, PHP, and MySQL. More recently, I've been exploring C and Python to deepen my technical expertise.<br><br>In addition, I'm actively studying the MITRE ATT&CK framework and APT groups to enhance my understanding of advanced threats.<br><br>As a Red Team practitioner, my goal is to refine my skills in simulating real-world attacks, mastering new tactics, techniques, and procedures (TTPs) to help organizations strengthen their defenses.</p> </br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rian-Junior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Rian-Junior&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 <h3 align="left">My activities</h3>
 
 <div align="center">
