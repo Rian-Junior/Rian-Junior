@@ -62,5 +62,5 @@
 
   <h4>My Music</h4>
   
-   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315bvwz6ivzgwb2lfu5zkvxn4gq4&count=5)
+   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315bvwz6ivzgwb2lfu5zkvxn4gq4&count=1)
 </div>
