@@ -58,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
 </div> </br>
 
-<div align="center">
+<div>
 
   <h4>My Music</h4>
   
