@@ -17,13 +17,12 @@
 
 <p align="left">I'm a passionate security enthusiast and aspiring software developer, with a strong focus on offensive security.<br><br>My journey into web development began at 15, learning JavaScript, PHP, and MySQL. More recently, I've been exploring C and Python to deepen my technical expertise.<br><br>In addition, I'm actively studying the MITRE ATT&CK framework and APT groups to enhance my understanding of advanced threats.<br><br>As a Red Team practitioner, my goal is to refine my skills in simulating real-world attacks, mastering new tactics, techniques, and procedures (TTPs) to help organizations strengthen their defenses.</p> </br>
 
-<h3 align="left">My activities</h3>
+<img align="right" height="120" src="https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif"  />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rian-junior&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rian-junior&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rian-junior&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rian-junior&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="125" alt="languages graph"  />
 </div>
-
 
 <h4 align="left">System OS</h4>
 
