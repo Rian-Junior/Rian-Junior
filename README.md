@@ -58,9 +58,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
 </div> </br>
 
-<div>
-
-  <h4>My Music</h4>
-  
-   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=315bvwz6ivzgwb2lfu5zkvxn4gq4&count=1)
-</div>
+<p> I'm passionate about coffee, I love studying new technologies and philosophy, I hate design xD </p>
